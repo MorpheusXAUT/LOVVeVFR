@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='ASCII'?>
+<FSData version="9.0">
+  <!-- <DeleteNavigation deleteAllWaypoints="TRUE" deleteAllVORs="TRUE" deleteAllNDBs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE" deleteAllILSs="TRUE" deleteAllApproaches="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllFrequencies="TRUE"/> -->
+  <!-- LOWW -->
+  <Waypoint lon="16.397222" lat="48.237500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWDT"/>
+  <Waypoint lon="16.498889" lat="48.030278" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWEB"/>
+  <Waypoint lon="16.455556" lat="48.197222" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWFR"/>
+  <Waypoint lon="16.446389" lat="48.072778" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWHI"/>
+  <Waypoint lon="17.067778" lat="48.083056" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWKS"/>
+  <Waypoint lon="16.347222" lat="48.297222" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWKL"/>
+  <Waypoint lon="16.354722" lat="48.028611" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWMU"/>
+  <Waypoint lon="16.708333" lat="48.127778" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWOR"/>
+  <Waypoint lon="16.847778" lat="48.110000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWPE"/>
+  <Waypoint lon="16.629444" lat="48.225000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWRU"/>
+  <Waypoint lon="16.629444" lat="48.127778" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWSC"/>
+  <Waypoint lon="16.629444" lat="48.306944" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWST"/>
+  <Waypoint lon="16.456667" lat="47.962500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WWUW"/>
+  <!-- LOWI -->
+  <Waypoint lon="11.498333" lat="47.011944" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIBR"/>
+  <Waypoint lon="11.873611" lat="47.289444" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIF"/>
+  <Waypoint lon="11.294722" lat="47.263056" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIG"/>
+  <Waypoint lon="11.280278" lat="47.236111" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WII"/>
+  <Waypoint lon="11.803611" lat="47.402778" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIM1"/>
+  <Waypoint lon="11.665556" lat="47.298889" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIM2"/>
+  <Waypoint lon="11.418333" lat="47.240000" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIM3"/>
+  <Waypoint lon="11.258611" lat="47.386111" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIN1"/>
+  <Waypoint lon="11.177500" lat="47.335833" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIN2"/>
+  <Waypoint lon="11.398611" lat="47.182500" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIS"/>
+  <Waypoint lon="10.964167" lat="47.277778" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIW1"/>
+  <Waypoint lon="11.169722" lat="47.286389" magvar="3.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WIW2"/>
+  <!-- LOWS -->
+  <Waypoint lon="13.123611"	lat="47.689167" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSAD"/>
+  <Waypoint lon="12.944722"	lat="47.824167" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSAI"/>
+  <Waypoint lon="13.126111"	lat="47.856944" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSEU"/>
+  <Waypoint lon="13.077778"	lat="47.770833" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSGL"/>
+  <Waypoint lon="13.075833"	lat="48.002500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSGS"/>
+  <Waypoint lon="13.053333"	lat="47.740000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSGR"/>
+  <Waypoint lon="13.098611"	lat="47.686111" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSHA"/>
+  <Waypoint lon="13.265278"	lat="48.002500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSLE"/>
+  <Waypoint lon="13.039722"	lat="47.840556" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSMP"/>
+  <Waypoint lon="13.195278"	lat="47.575278" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSPL"/>
+  <Waypoint lon="13.131111"	lat="47.887778" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSSK"/>
+  <Waypoint lon="13.079167"	lat="47.730556" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSS"/>
+  <Waypoint lon="13.273611"	lat="47.982222" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSST"/>
+  <Waypoint lon="12.743889"	lat="48.002500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSTS"/>
+  <Waypoint lon="12.811111"	lat="47.854167" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSTD"/>
+  <Waypoint lon="13.314722"	lat="47.596111" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSVO"/>
+  <Waypoint lon="12.934722"	lat="47.771389" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WSW"/>
+  <!-- LOWL -->
+  <Waypoint lon="14.151944" lat="48.315833" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WLK"/>
+  <Waypoint lon="14.265556" lat="48.137778" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WLO"/>
+  <Waypoint lon="14.146389" lat="48.144722" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WLS"/>
+  <!-- LOWK -->
+  <Waypoint lon="14.727222" lat="46.704444" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKE1"/>
+  <Waypoint lon="14.526389" lat="46.728611" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKE2"/>
+  <Waypoint lon="14.110278" lat="46.751667" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKN1"/>
+  <Waypoint lon="14.387778" lat="46.769444" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKN2"/>
+  <Waypoint lon="14.346111" lat="46.680556" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKN3"/>
+  <Waypoint lon="14.383333" lat="46.580556" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKS"/>
+  <Waypoint lon="14.051944" lat="46.610000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKW1"/>
+  <Waypoint lon="14.262222" lat="46.547500" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKW2"/>
+  <Waypoint lon="14.252500" lat="46.619167" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WKW3"/>
+  <!-- LOWG -->
+  <Waypoint lon="15.485833" lat="47.016667" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGAO"/>
+  <Waypoint lon="15.407500" lat="47.000278" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGAW"/>
+  <Waypoint lon="15.713889" lat="47.104167" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGGL"/>
+  <Waypoint lon="15.285000" lat="47.134444" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGGN"/>
+  <Waypoint lon="15.491389" lat="46.969444" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGKD"/>
+  <Waypoint lon="15.594167" lat="47.061111" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGLH"/>
+  <Waypoint lon="15.379444" lat="46.951111" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WGSD"/>
+  <!-- LOWZ -->
+  <Waypoint lon="12.875000" lat="47.283333" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZE"/>
+  <Waypoint lon="12.806667" lat="47.326667" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZL"/>
+  <Waypoint lon="12.818333" lat="47.363333" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZN"/>
+  <Waypoint lon="12.790000" lat="47.283333" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZS"/>
+  <Waypoint lon="12.666667" lat="47.280000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZW"/>
+  <!-- LOAV -->
+  <Waypoint lon="16.245833" lat="47.973889" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVA"/>
+  <Waypoint lon="16.270556" lat="47.959444" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVB"/>
+  <Waypoint lon="16.302500" lat="47.942500" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVE"/>
+  <Waypoint lon="16.319444" lat="47.984444" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVG"/>
+  <Waypoint lon="16.223333" lat="47.988333" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVK"/>
+  <Waypoint lon="16.210833" lat="47.935000" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVL"/>
+  <Waypoint lon="16.256944" lat="47.914167" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVS"/>
+  <Waypoint lon="16.171667" lat="47.967778" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVT"/>
+  <Waypoint lon="16.164444" lat="48.012778" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVU"/>
+  <Waypoint lon="16.198056" lat="47.993333" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVW"/>
+  <Waypoint lon="16.298889" lat="48.000000" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AVX"/>
+  <!-- LOXZ -->
+  <Waypoint lon="14.308889" lat="47.132778" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZFRO"/>
+  <Waypoint lon="14.915000" lat="47.105556" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZGAB"/>
+  <Waypoint lon="14.815556" lat="47.176111" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZGRO"/>
+  <Waypoint lon="14.528056" lat="47.243056" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZYKA"/>
+  <Waypoint lon="14.941389" lat="47.304167" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZKRA"/>
+  <Waypoint lon="14.483056" lat="47.280556" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZMOE"/>
+  <Waypoint lon="14.426944" lat="47.066111" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZNEM"/>
+  <Waypoint lon="14.727500" lat="47.045000" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZOBD"/>
+  <Waypoint lon="14.580556" lat="47.222222" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZPOE"/>
+  <Waypoint lon="14.758056" lat="47.217222" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZRBR"/>
+  <Waypoint lon="14.397222" lat="47.150000" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZSCH"/>
+  <Waypoint lon="14.891389" lat="47.255556" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZSLO"/>
+  <Waypoint lon="15.001667" lat="47.343611" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZYSM"/>
+  <Waypoint lon="14.601111" lat="47.188889" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZTHA"/>
+  <Waypoint lon="14.458056" lat="47.209722" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZUNZ"/>
+  <Waypoint lon="14.742778" lat="47.141667" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XZWEI"/>
+  <!-- LOXT -->
+  <Waypoint lon="15.857778" lat="48.376667" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTATW"/>
+  <Waypoint lon="16.241944" lat="48.355556" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTGRE"/>
+  <Waypoint lon="15.990278" lat="48.486111" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTGRW"/>
+  <Waypoint lon="16.347222" lat="48.297222" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTKLO"/>
+  <Waypoint lon="15.625000" lat="48.397778" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTKRE"/>
+  <Waypoint lon="16.300000" lat="48.366667" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTKRZ"/>
+  <Waypoint lon="15.830000" lat="48.578056" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTMAI"/>
+  <Waypoint lon="16.088889" lat="48.252778" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTRIE"/>
+  <Waypoint lon="15.703056" lat="48.529722" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTSCK"/>
+  <Waypoint lon="16.011111" lat="48.255556" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTSIE"/>
+  <Waypoint lon="15.845278" lat="48.173889" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTCHR"/>
+  <Waypoint lon="15.641389" lat="48.230278" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTPOL"/>
+  <Waypoint lon="16.018611" lat="48.417222" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTSTU"/>
+  <Waypoint lon="16.028611" lat="48.338333" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTTUL"/>
+  <Waypoint lon="16.123056" lat="48.175278" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="XTWWS"/>
+</FSData>

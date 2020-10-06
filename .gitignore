@@ -1,0 +1,4 @@
+# Temporary build output folder
+_PackageInt/
+# Package build output folder
+Packages/
