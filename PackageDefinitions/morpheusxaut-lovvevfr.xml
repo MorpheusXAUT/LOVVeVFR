@@ -1,4 +1,4 @@
-<AssetPackage Name="morpheusxaut-lovvevfr" Version="0.1.0">
+<AssetPackage Name="morpheusxaut-lovvevfr" Version="1.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>LOVVe VFR Reporting Points</Title>
@@ -10,14 +10,6 @@
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
 	<AssetGroups>
-		<AssetGroup Name="ContentInfo">
-			<Type>Copy</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageDefinitions\morpheusxaut-lovvevfr\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\morpheusxaut-lovvevfr</OutputDir>
-		</AssetGroup>
 		<AssetGroup Name="lovvevfr">
 			<Type>BGL</Type>
 			<Flags>
