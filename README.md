@@ -6,7 +6,7 @@
 
 ### Installation
 
-1. Download the latest release (`LOVVeVFR.zip`) of `LOVVeVFR` from the [**Releases**](https://github.com/MorpheusXAUT/DelHel/releases/latest)
+1. Download the latest release (`LOVVeVFR.zip`) of `LOVVeVFR` from the [**Releases**](https://github.com/MorpheusXAUT/LOVVeVFR/releases/latest) section of this repository
 2. Extract the `morpheusxaut-lovvevfr` folder to your MSFS 2020 Packages `Community` folder
 
 
