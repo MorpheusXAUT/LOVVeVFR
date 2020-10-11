@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='ASCII'?>
+<FSData version="9.0">
+  <!-- <DeleteNavigation deleteAllWaypoints="TRUE" deleteAllVORs="TRUE" deleteAllNDBs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE" deleteAllILSs="TRUE" deleteAllApproaches="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllFrequencies="TRUE"/> -->
+  <!-- LOWZ -->
+  <Waypoint lon="12.699722" lat="47.283611" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ601"/>
+  <Waypoint lon="12.588889" lat="47.285000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ602"/>
+  <Waypoint lon="12.521667" lat="47.285833" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ603"/>
+  <Waypoint lon="12.400556" lat="47.300833" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ604"/>
+  <!-- LOAV -->
+  <Waypoint lon="16.310556" lat="47.941944" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AV807"/>
+  <Waypoint lon="16.274444" lat="47.970833" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AV950"/>
+  <Waypoint lon="16.326111" lat="47.986667" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AV951"/>
+  <!-- LOAN -->
+  <Waypoint lon="16.310556" lat="47.840833" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AN803" />
+  <!-- LOIJ -->
+  <Waypoint lon="12.337778" lat="47.507222" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ601"/>
+  <Waypoint lon="12.255556" lat="47.515000" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ602"/>
+</FSData>

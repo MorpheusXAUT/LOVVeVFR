@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ASCII'?>
+<FSData version="9.0">
+  <!-- <DeleteNavigation deleteAllWaypoints="TRUE" deleteAllVORs="TRUE" deleteAllNDBs="TRUE" deleteAllTerminalWaypoints="TRUE" deleteAllTerminalNDBs="TRUE" deleteAllILSs="TRUE" deleteAllApproaches="TRUE" deleteAllDepartures="TRUE" deleteAllArrivals="TRUE" deleteAllFrequencies="TRUE"/> -->
+  <!-- LOWZ -->
+  <Waypoint lon="12.398142" lat="47.301172" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ801"/>
+  <Waypoint lon="12.530703" lat="47.276750" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ802"/>
+  <Waypoint lon="12.685969" lat="47.283567" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="WZ803"/>
+  <!-- LOAV -->
+  <Waypoint lon="16.394250" lat="47.921736" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AV806"/>
+  <Waypoint lon="16.310681" lat="47.942003" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AV807"/>
+  <!-- LOAN -->
+  <Waypoint lon="16.397292" lat="47.837108" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AN800"/>
+  <Waypoint lon="16.295364" lat="47.841561" magvar="5.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="AN802"/>
+  <!-- LOIJ -->
+  <Waypoint lon="12.141222" lat="47.530081" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ801"/>
+  <Waypoint lon="12.205808" lat="47.526233" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ802"/>
+  <Waypoint lon="12.354736" lat="47.520828" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ803"/>
+  <Waypoint lon="12.418278" lat="47.518553" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ804"/>
+  <Waypoint lon="12.447781" lat="47.590214" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ805"/>
+  <Waypoint lon="12.328267" lat="47.629450" magvar="4.0" waypointType="NAMED" waypointRegion="LO" waypointIdent="IJ806"/>
+</FSData>
